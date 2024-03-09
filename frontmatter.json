@@ -1,5 +1,7 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.git.enabled": true,
+  "frontMatter.git.commitMessage": "feat: Updated Content at: {{hour24}}:{{minute}}",
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -44,6 +46,23 @@
           "type": "categories"
         }
       ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "archetypes",
+      "path": "[[workspace]]/archetypes"
+    },
+    {
+      "title": "hugo",
+      "path": "[[workspace]]/content/note/hugo"
     }
   ]
 }
