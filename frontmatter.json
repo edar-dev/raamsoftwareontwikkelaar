@@ -54,15 +54,18 @@
   "frontMatter.content.pageFolders": [
     {
       "title": "content",
-      "path": "[[workspace]]/content"
-    },
-    {
-      "title": "archetypes",
-      "path": "[[workspace]]/archetypes"
+      "path": "[[workspace]]/content",
+      "filePrefix": ""
     },
     {
       "title": "hugo",
-      "path": "[[workspace]]/content/note/hugo"
+      "path": "[[workspace]]/content/note/hugo",
+      "filePrefix": "",
+      "previewPath": "/note/hugo"
+    },
+    {
+      "title": "project",
+      "path": "[[workspace]]/content/project"
     }
   ]
 }
