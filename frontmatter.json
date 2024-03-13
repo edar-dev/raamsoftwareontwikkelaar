@@ -66,6 +66,10 @@
     {
       "title": "project",
       "path": "[[workspace]]/content/project"
+    },
+    {
+      "title": "note",
+      "path": "[[workspace]]/content/note"
     }
   ]
 }
