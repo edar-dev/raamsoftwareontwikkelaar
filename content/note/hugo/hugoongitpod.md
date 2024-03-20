@@ -3,7 +3,6 @@ title: Develop Hugo Project on GitPod
 description: " Learn how to configure GitPod to create a cloud developer environment for your first Hugo project."
 date: 2024-03-11T20:01:19.794Z
 preview: ""
-draft: true
 tags: []
 categories: []
 type: default

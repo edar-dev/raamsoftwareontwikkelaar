@@ -1,8 +1,12 @@
-+++
-title = 'About'
-date = 2024-03-08T10:14:40Z
-draft = true
-+++
+---
+title: About
+description: "About Me"
+date: 2024-03-11T20:01:19.794Z
+preview: ""
+tags: []
+categories: []
+type: default
+---
 :wave: Hello, I'm Edoardo, a Software Engineer, and this is my personal website.
 
 :keyboard: The idea behind this website is to create a space for taking notes, primarily for myself, but it could also be helpful to others.

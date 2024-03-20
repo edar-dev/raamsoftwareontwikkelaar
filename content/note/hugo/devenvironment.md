@@ -3,7 +3,6 @@ title: Fine-Tuning Your Hugo Dev Environment
 description: Dive into the essentials of setting up a development environment tailored for your Hugo project.
 date: 2024-03-09T20:58:45.545Z
 preview: ""
-draft: true
 tags:
     - GitPod
     - Hugo
