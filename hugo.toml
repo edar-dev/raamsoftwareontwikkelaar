@@ -1,4 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = "/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'ananke'
+theme= "PaperMod"
+sectionPagesMenu = 'main'
+enableEmoji = true
+
+[params]
+comments = true
+
+[services]
+  [services.disqus]
+    shortname = 'edar-1'
+
