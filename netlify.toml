@@ -3,5 +3,5 @@ TZ = "America/Los_Angeles"
 
 [build]
 publish = "public"
-command = "hugo --gc --minify -b $BASEURL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
